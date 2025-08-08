@@ -1,18 +1,47 @@
-<h1 align="center">Hi 👋, I am Sergio Rodríguez</h1>
-<h3 align="center">A passionate developer</h3>
-
-- 🌱 I’m currently learning *Django* and *Vue3*
-
-- 💬 Ask me about *Python, Java, Php, JavaScript*
-
-- 📫 How to reach me **rodriguezhernandezsdc@gmail.com**
-
-- 📄 Know about my experiences [I have carried out several projects throughout my engineering career, among which I can highlight the focus on Machine learning, data analysis, web page development and administration systems](I have carried out several projects throughout my engineering career, among which I can highlight the focus on Machine learning, data analysis, web page development and administration systems)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sergio-rodher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergio-rodher" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<div id="md-editor-v3_5-preview" class="md-editor-preview github-theme md-editor-scrn"><h1 data-line="0">👋 Hello, I'm Sergio Rodríguez</h1>
+<h3>Passionate about applied mathematics, data science, and software development</h3>
+<hr data-line="3">
+<h3 data-line="5" id="🚀 About Me">🚀 About Me</h3>
+<p data-line="7">I am a developer with a background in engineering and a strong interest in applied mathematics, data science, and machine learning. I am currently transitioning from a data analyst role to technical positions in Data Science.</p>
+<p data-line="9">I enjoy building from scratch: from chess engines to predictive models and analytical tools.</p>
+<hr data-line="11">
+<h3 data-line="13" id="🧠 Current Interests">🧠 Current Interests</h3>
+<ul data-line="15">
+<li><strong>Applied Data Science</strong> in real-world contexts</li>
+<li><strong>Machine Learning</strong> and deep learning (PyTorch, Scikit-learn)</li>
+<li><strong>Computational Mathematics</strong> (linear algebra, statistics, optimization)</li>
+<li><strong>Web Development</strong> with Django + Vue3</li>
+<li>Complex data modeling (personal projects like esports predictions)</li>
+</ul>
+<hr data-line="21">
+<h3 data-line="23" id="🔧 Technologies and Tools">🔧 Technologies and Tools</h3>
+<ul data-line="25">
+<li><strong>Languages</strong>: Python, JavaScript, PHP, Java</li>
+<li><strong>ML/DS</strong>: Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib, Seaborn, OpenCV</li>
+<li><strong>Databases</strong>: MySQL, SQLite, MongoDB, SQL Server</li>
+<li><strong>Web</strong>: Django, Laravel, Vue3, React</li>
+<li><strong>Testing/QA</strong>: Selenium, Postman, Playwright</li>
+<li><strong>Others</strong>: Git, Linux, CI/CD, Firebase</li>
+</ul>
+<hr data-line="32">
+<h3 data-line="34" id="📈 Featured Projects">📈 Featured Projects</h3>
+<ul data-line="36">
+<li>🧩 <strong>Chess Engine in Python</strong> – Simulates legal moves, game logic, and search tree.</li>
+<li>🧬 <strong>Cancer Prediction Model with PyTorch</strong> – Applied project in medical classification.</li>
+<li>🎮 <strong>League of Legends Data Analysis</strong> – Predictive models and competitive metric visualization.</li>
+<li>🧮 <strong>Applied Mathematics Notebook</strong> – Projects focused on matrix decomposition, gradient descent, and more.</li>
+</ul>
+<blockquote data-line="41">
+<p><em>Soon all will be visible on this profile with clear documentation.</em></p>
+</blockquote>
+<hr data-line="43">
+<h3 data-line="45" id="📫 How to Reach Me">📫 How to Reach Me</h3>
+<ul data-line="47">
+<li>Email: <strong>rodriguezhernandezsdc@gmail.com</strong></li>
+<li>LinkedIn: <a href="https://linkedin.com/in/sergio-rodher">linkedin.com/in/sergio-rodher</a></li>
+</ul>
+<hr data-line="50">
+<h3 data-line="52" id="📄 Experience">📄 Experience</h3>
+<p data-line="54">I have worked as a data analyst focused on delivering actionable insights to business teams. Currently, I am focusing on <strong>modeling, statistical analysis, and decision automation with real data</strong>.</p>
+<hr data-line="56">
+</div>
