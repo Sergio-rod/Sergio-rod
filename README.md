@@ -2,7 +2,7 @@
 <h3>Passionate about applied mathematics, data science, and software development</h3>
 <hr data-line="3">
 <h3 data-line="5" id="🚀 About Me">🚀 About Me</h3>
-<p data-line="7">I am a developer with a background in engineering and a strong interest in applied mathematics, data science, and machine learning. I am currently transitioning from a data analyst role to technical positions in Data Science.</p>
+<p data-line="7">I am a developer with a background in engineering and a strong interest in applied mathematics, data science, and machine learning. </p>
 <p data-line="9">I enjoy building from scratch: from chess engines to predictive models and analytical tools.</p>
 <hr data-line="11">
 <h3 data-line="13" id="🧠 Current Interests">🧠 Current Interests</h3>
@@ -16,17 +16,16 @@
 <hr data-line="21">
 <h3 data-line="23" id="🔧 Technologies and Tools">🔧 Technologies and Tools</h3>
 <ul data-line="25">
-<li><strong>Languages</strong>: Python, JavaScript, PHP, Java</li>
-<li><strong>ML/DS</strong>: Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib, Seaborn, OpenCV</li>
+<li><strong>Languages</strong>: Python, JavaScript, Java</li>
+<li><strong>ML/DS</strong>: Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib, Plotly,Seaborn, OpenCV</li>
 <li><strong>Databases</strong>: MySQL, SQLite, MongoDB, SQL Server</li>
-<li><strong>Web</strong>: Django, Laravel, Vue3, React</li>
-<li><strong>Testing/QA</strong>: Selenium, Postman, Playwright</li>
-<li><strong>Others</strong>: Git, Linux, CI/CD, Firebase</li>
+<li><strong>Testing/QA</strong>: Selenium, Postman</li>
+<li><strong>Others</strong>: Git, PBI, CI/CD</li>
 </ul>
 <hr data-line="32">
 <h3 data-line="34" id="📈 Featured Projects">📈 Featured Projects</h3>
 <ul data-line="36">
-<li>🧩 <strong>Chess Engine in Python</strong> – Simulates legal moves, game logic, and search tree.</li>
+<li>🧩 <strong>Chess Engine in Python</strong> – Simulates legal moves, game logic, and search tree. (In process) </li>
 <li>🧬 <strong>Cancer Prediction Model with PyTorch</strong> – Applied project in medical classification.</li>
 <li>🎮 <strong>League of Legends Data Analysis</strong> – Predictive models and competitive metric visualization.</li>
 <li>🧮 <strong>Applied Mathematics Notebook</strong> – Projects focused on matrix decomposition, gradient descent, and more.</li>
